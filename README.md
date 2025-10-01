@@ -1,5 +1,10 @@
-## Hi there 👋
+# About me
 
+🖥 Computer Scientist in progress...
+
+💾 Knows: Python | Java | HTML | CSS | JavaScript
+
+📖 Learns: C
 <!--
 **frozenqbit/frozenqbit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
